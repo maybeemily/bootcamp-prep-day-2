@@ -1,0 +1,30 @@
+body {
+    color:green;
+    font-size:14px;
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace
+}
+
+p {
+    font-size:1.1em;
+}
+
+h2 {
+    color:#e2e23e;
+}
+
+.holder-type {
+    color: #ef0cba;
+    margin-top: 10px;
+}
+
+hr {
+    color:hotpink;
+}
+
+a {
+    color:tomato;
+    text-decoration:none;
+}
